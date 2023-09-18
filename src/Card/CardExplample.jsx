@@ -1,6 +1,6 @@
 import Button from 'react-bootstrap/Button';
 import Card from 'react-bootstrap/Card';
-import Imagen from '../Imagen/Imagen';
+import Imagen from '../assets/captura.png';
 
 function CardExplample() {
   return (
