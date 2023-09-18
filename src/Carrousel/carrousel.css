@@ -1,0 +1,22 @@
+
+.footer-59i{
+    background-color: #1F2229;
+    height: 300px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 1255px;
+    color: white;
+    margin-top: 20px;
+    font-size: large;
+}
+
+.footer-59i ul{
+    list-style: none;
+}
+
+
+.img-react{
+    width: 300px;
+}
+
