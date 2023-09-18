@@ -10,7 +10,7 @@ function App() {
     <>
       <Titulo />
       <Imagen />
-      <CardExplample />
+      <CardExplample /> 
       <UncontrolledExample/>
     </>
   );
