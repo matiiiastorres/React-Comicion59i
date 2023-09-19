@@ -16,7 +16,6 @@ const Titulo = () => {
         <span className="burn">9</span>
         <span className="fire">i</span>
       </h1>
-      ;
     </div>
   );
 };

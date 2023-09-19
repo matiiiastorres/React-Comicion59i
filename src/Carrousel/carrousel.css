@@ -1,13 +1,14 @@
 
 .footer-59i{
-    background-color: #1F2229;
-    height: 300px;
+    background-color: #000000;
+    /* height: 300px; */
     display: flex;
     align-items: center;
     justify-content: center;
-    width: 1255px;
-    color: white;
-    margin-top: 20px;
+    width: 100vw; 
+
+    
+    margin-top: 300px;
     font-size: large;
 }
 

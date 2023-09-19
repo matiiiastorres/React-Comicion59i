@@ -1,29 +1,21 @@
-  import './App.css';
+import './App.css';
 import Titulo from './Titulo/Titulo';
 
 import Navbar from './Navbar/Navbar';
 import UncontrolledExample from './Carrousel/Carrousel';
 
 import 'bootstrap/dist/css/bootstrap.min.css';
-import Login from './Login/Login';
-import FormLoginValidation from './Login/FormLoginValidation';
-
-
 
 function App() {
   return (
-    <>
-
-      <Login/>
-
+    <div className="app-59i">
       <Navbar />
-
+      <br />
+      <br />
+      <br />
       <Titulo />
-
-      <UncontrolledExample/>
-      
-
-    </>
+      <UncontrolledExample />
+    </div>
   );
 }
 
