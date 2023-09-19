@@ -1,4 +1,4 @@
-import CieloEstrellado from '../assets/react.svg';
+import CieloEstrellado from '../assets/captura.png';
 
 const Imagen = () => {
   return (
