@@ -1,7 +1,9 @@
-import './App.css';
+  import './App.css';
 import Titulo from './Titulo/Titulo';
-import Imagen from './Imagen/Imagen';
-import CardExplample from './Card/CardExplample';
+
+import Navbar from './Navbar/Navbar';
+import UncontrolledExample from './Carrousel/Carrousel';
+
 import 'bootstrap/dist/css/bootstrap.min.css';
 import Login from './Login/Login';
 import FormLoginValidation from './Login/FormLoginValidation';
@@ -11,10 +13,16 @@ import FormLoginValidation from './Login/FormLoginValidation';
 function App() {
   return (
     <>
+
       <Login/>
+
+      <Navbar />
+
       <Titulo />
-      <Imagen />
-      <CardExplample />
+
+      <UncontrolledExample/>
+      
+
     </>
   );
 }
